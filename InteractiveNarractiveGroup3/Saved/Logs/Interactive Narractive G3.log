@@ -8398,3 +8398,5 @@ Make sure 'Dreamsequencetrigger_C' has been compiled for  Bind Event to Cutscene
 [2025.04.30-12.12.50:998][747]LoadingProfiler: Shutdown
 [2025.04.30-12.12.50:998][747]TimingProfiler: Shutdown
 [2025.04.30-12.12.51:091][747]LogOpenImageDenoise: OIDN shutting down
+[2025.04.30-12.15.07:769][747]LogDerivedDataCache: C:/Users/2406363/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.30-13.15.07:769][747]LogDerivedDataCache: C:/Users/2406363/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
