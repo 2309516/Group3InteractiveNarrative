@@ -5,15 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/lukej/Desktop/Hayden/Git/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/AssetsvilleTown/Maps/L_MainMenu.umap",
-				"C:/Users/lukej/Desktop/Hayden/Git/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Menus/MainMenu/L_MainMenu.umap",
-				"C:/Users/lukej/Desktop/Hayden/Git/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Menus/MainMenu/3D_Menu/BP_MENU_3D.uasset",
-				"C:/Users/lukej/Desktop/Hayden/Git/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Menus/MainMenu/3D_Menu/Widgets/Menu3D_Widget.uasset",
-				"C:/Users/lukej/Desktop/Hayden/Git/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Menus/MainMenu/3D_Menu/Widgets/MainMenuWidget.uasset",
-				"C:/Users/lukej/Desktop/Hayden/Git/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Menus/MainMenu/3D_Menu/Widgets/Button_Widget.uasset",
-				"C:/Users/lukej/Desktop/Hayden/Git/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Menus/MainMenu/3D_Menu/Widgets/Credits_Widget.uasset",
-				"C:/Users/lukej/Desktop/Hayden/Git/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Menus/MainMenu/3D_Menu/Widgets/Options_Widget.uasset",
-				"C:/Users/lukej/Desktop/Hayden/Git/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Menus/MainMenu/3D_Menu/MainMenuGameMode.uasset"
+				"C:/Users/2406363/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/AssetsvilleTown/Maps/Demonstration.umap",
+				"C:/Users/2406363/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/InteractableDoors/DoorInteract.uasset"
 			]
 		}
 	]
