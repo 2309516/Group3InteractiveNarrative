@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2310592/Documents/GitHub/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/AssetsvilleTown/Maps/Demonstration.umap",
+				"C:/Users/2310592/Documents/GitHub/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Animations/colour15.uasset",
+				"C:/Users/2310592/Documents/GitHub/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Animations/Mike_Skeleton_Runninng.uasset"
+			]
+		}
+	]
+}
