@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2309516/Documents/GitHub/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Static/AssetVilleTown/Meshes/GroundTilset/SM_road_01.uasset",
+				"C:/Users/2309516/Documents/GitHub/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/AssetsvilleTown/Maps/Demonstration.umap",
+				"C:/Users/2309516/Documents/GitHub/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Static/AssetVilleTown/Meshes/GroundTilset/SM_road_28.uasset",
+				"C:/Users/2309516/Documents/GitHub/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Vehicle/TorqueCurve.uasset",
+				"C:/Users/2309516/Documents/GitHub/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Vehicle/BP_GetawayCar.uasset",
+				"C:/Users/2309516/Documents/GitHub/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Core/GM_BankHeist.uasset",
 				"C:/Users/2405387/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Levels/Second_memory.umap",
 				"C:/Users/2405387/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Levels/First_memory.umap",
 				"C:/Users/2405387/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Vehicle/BP_GetawayCar.uasset",
