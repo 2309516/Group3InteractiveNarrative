@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2405387/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Levels/Second_memory.umap",
+				"C:/Users/2405387/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Levels/First_memory.umap",
+				"C:/Users/2405387/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Vehicle/BP_GetawayCar.uasset",
+				"C:/Users/2405387/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/Blueprints/Core/GM_BankHeist.uasset",
+				"C:/Users/2405387/Downloads/Group3InteractiveNarrative/InteractiveNarractiveGroup3/Content/Dynamic/AssetsvilleTown/Maps/Demonstration.umap"
+			]
+		}
+	]
+}
